@@ -1,0 +1,17 @@
+{
+    "name": "apirest-nodejs",
+    "version": "1.0.0",
+    "main": "server/app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Carlos Llanos Rodriguez",
+    "license": "ISC",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "dotenv": "^16.0.0",
+        "express": "^4.17.3",
+        "mariadb": "^3.1.0",
+        "moment": "^2.29.4"
+    }
+}
